@@ -9,7 +9,7 @@ before:
 
 builds:
   - id: eurl
-    main: ./main
+    main: .
     binary: eurl
 
     env:
